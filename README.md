@@ -15,5 +15,3 @@ brought by the Procamburus Clarkii
 
 * Aphanomyces astaci, a fungi which parasitizes crayfishes, it doesn't affect the life of Procamburus Clarkii but 
 ususally kills in few days the native specie.
-
-
